@@ -24,3 +24,8 @@ Forms, buttons, and navigation are designed for optimal usability.
 Administrator Features (optional expansion):
 
 Admins can manage users, update product details, and oversee appointment schedules through an admin panel.
+
+Target Users:
+Individuals seeking eye care services who need a convenient way to book appointments and order products online.
+Eye clinic administrators who require an efficient system for managing client appointments and inventory.
+This application is ideal for small to medium-sized eye care clinics aiming to digitize their operations and enhance user engagement.
